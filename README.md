@@ -8,7 +8,7 @@
 - Solution ***solution***
 
 
-Oefening - normal
+Oefening - Solution
 -------
 
 Neem onderstaande array van book-objecten over.  
